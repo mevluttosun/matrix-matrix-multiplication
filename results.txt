@@ -1,0 +1,149 @@
+System Features
+CPU : Intel® Coffee Lake CoreTM i7-9750H 6C/12T; 12MB L3; 8GT/s; 2.6GHz > 4.5GHz; 45W; 14nm
+RAM : 8*2 GB DDR4L
+L1 Cache : 384 KB
+L2 Cache : 1,5 MB
+L3 Cache : 12,0 MB
+OS : Ubuntu Linux
+
+n = 1000
+multiply ijk
+multiply took 4.083512 seconds to execute
+multiply ikj
+multiply took 3.077287 seconds to execute
+multiply jik
+multiply took 3.895796 seconds to execute
+multiply jki
+multiply took 6.796846 seconds to execute
+multiply kij
+multiply took 2.993159 seconds to execute
+multiply kji
+multiply took 6.702639 seconds to execute
+
+n = 2000
+multiply ijk
+multiply took 54.318287 seconds to execute
+multiply ikj
+multiply took 24.335733 seconds to execute
+multiply jik
+multiply took 41.962584 seconds to execute
+multiply jki
+multiply took 68.510489 seconds to execute
+multiply kij
+multiply took 24.091626 seconds to execute
+multiply kji
+multiply took 68.654377 seconds to execute
+
+n = 3000
+multiply ijk
+multiply took 206.448327 seconds to execute
+multiply ikj
+multiply took 81.578006 seconds to execute
+multiply jik
+multiply took 164.352230 seconds to execute
+multiply jki
+multiply took 245.775802 second to execute
+multiply kij
+multiply took 80.618992 seconds to execute
+multiply kji
+multiply took 240.107483 seconds to execute
+
+n = 4000
+multiply ijk
+multiply took 504.679950 seconds to execute
+multiply ikj
+multiply took 192.465380 seconds to execute
+multiply jik
+multiply took 408.527445 seconds to execute
+multiply jki
+multiply took 594.080835 seconds to execute
+multiply kij
+multiply took 191.192143 seconds to execute
+multiply kji
+multiply took 578.104783 seconds to execute
+
+n = 5000
+multiply ijk
+multiply took 984.540360 seconds to execute
+multiply ikj
+multiply took 369.980443 seconds to execute
+multiply jik
+multiply took 793.686199 seconds to execute
+multiply jki
+multiply took 1197.102254 seconds to execute
+multiply kij
+multiply took 373.592847 seconds to execute
+multiply kji
+multiply took 1170.203168 seconds to execute
+
+n = 6000
+multiply ijk
+multiply took 1729.000558 seconds to execute
+multiply ikj
+multiply took 639.069437 seconds to execute
+multiply jik
+multiply took 1391.758507 seconds to execute
+multiply jki
+multiply took 2096.166329 seconds to execute
+multiply kij
+multiply took 646.440553 seconds to execute
+multiply kji
+multiply took 2046.142833 seconds to execute
+
+n = 7000
+multiply ijk
+multiply took 2761.996879 seconds to execute
+multiply ikj
+multiply took 1014.447448 seconds to execute
+multiply jik
+multiply took 2223.512620 seconds to execute
+multiply jki
+multiply took 3456.662440 seconds to execute
+multiply kij
+multiply took 1024.385775 seconds to execute
+multiply kji
+multiply took 3339.621983 seconds to execute
+
+n = 8000
+multiply ijk
+multiply took 4144.990357 seconds to execute
+multiply ikj
+multiply took 1514.470606 seconds to execute
+multiply jik
+multiply took 3366.259948 seconds to execute
+multiply jki
+multiply took 5243.569319 seconds to execute
+multiply kij
+multiply took 1529.085689 seconds to execute
+multiply kji
+multiply took 5088.154387 seconds to execute
+
+n = 9000
+multiply ijk
+multiply took 6088.166400 seconds to execute
+multiply ikj
+multiply took 2158.172407 seconds to execute
+multiply jik
+multiply took 4978.429385 seconds to execute
+multiply jki
+multiply took 7559.074440 seconds to execute
+multiply kij
+multiply took 2178.086421 seconds to execute
+multiply kji
+multiply took 7396.043553 seconds to execute
+
+n = 10000
+multiply ijk
+multiply took 8477.493464 seconds to execute
+multiply ikj
+multiply took 2981.571056 seconds to execute
+multiply jik
+multiply took 6834.847348 seconds to execute
+multiply jki
+multiply took 10564.616970 seconds to execute
+multiply kij
+multiply took 2986.230395 seconds to execute
+multiply kji
+multiply took 10330.107179 seconds to execute
+
+!!!FINISHED!!!
